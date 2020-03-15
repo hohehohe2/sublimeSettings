@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/User/Tako.sublime-color-scheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 11,
+	"rulers":
+	[
+		78
+	],
+	"theme": "Default.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}
